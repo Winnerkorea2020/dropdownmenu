@@ -1,0 +1,3 @@
+.badge {
+  @apply text-xs tracking-tighter font-semibold text-white w-6 h-6 bg-red-500 rounded-full z-10 flex items-center justify-center;
+}
